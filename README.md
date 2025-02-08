@@ -1,16 +1,24 @@
-# epsi_shop
+# EPSI Shop
 
-Epsi Shop
+Application e-commerce Flutter utilisant l'API FakeStore.
 
-## Getting Started
+## Prérequis
 
-This project is a starting point for a Flutter application.
+* Flutter SDK
+* Chrome (pour le web)
 
-A few resources to get you started if this is your first Flutter project:
+## Installation
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+* Cloner le projet
+* `flutter pub get`
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Lancement
+
+* `flutter run -d chrome`
+
+## Fonctionnalités
+
+* Liste des produits
+* Détail des produits
+* Panier avec TVA
+* Gestion des quantités
